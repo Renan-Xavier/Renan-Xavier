@@ -31,6 +31,7 @@ Estudante de **Análise e Desenvolvimento de Sistemas na FIAP** (RM566997). Dese
 
 | Projeto | Descrição | Tecnologias | Links |
 | :--- | :--- | :--- | :--- |
+| 🚛 **[EcoFleet Manager](https://github.com/Renan-Xavier/ecofleet-telemetria-esg)** | Plataforma Full Stack de telemetria, detecção de desvios e pegada de carbono ESG. | Java 21, Spring Boot 3, Next.js 15, PostgreSQL, Docker | 💻 [Código](https://github.com/Renan-Xavier/ecofleet-telemetria-esg) |
 | ⚡ **[Portfólio Samurai Oni](https://github.com/Renan-Xavier/portfolio)** | Portfólio de alta performance com física 3D e animações reativas. | Next.js 15, React 19, Tailwind CSS, TypeScript | 🌐 [Live Demo](https://renan-xavier.vercel.app) · 💻 [Código](https://github.com/Renan-Xavier/portfolio) |
 | 🌿 **[ESG Spring API](https://github.com/Renan-Xavier/ESG-Spring-API)** | Rastreamento de carbono Escopo 3 e auditoria ESG corporativa. | Java 21, Spring Boot 3, Oracle SQL, Flyway, Docker | 💻 [Código](https://github.com/Renan-Xavier/ESG-Spring-API) |
 | 🛰️ **[OrbitAgri](https://github.com/Renan-Xavier/OrbitAgri)** | Monitoramento de carbono no solo (SOC) com IA geoespacial e satélites. | Sentinel-2, Landsat, SAM 3, Prithvi-EO-2.0 | 🎬 [Vídeo Pitch](https://www.youtube.com/watch?v=UaOoXXTM8tI) · 💻 [Código](https://github.com/Renan-Xavier/OrbitAgri) |
